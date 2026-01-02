@@ -1,4 +1,4 @@
-# CLAUDE.md
+# README.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
@@ -167,3 +167,4 @@ python gradio_app.py
 - 背景噪音会影响分离质量
 - 重叠的语音片段可能被归属到一个说话人
 - 首次运行时模型会下载（约300MB）并缓存到本地
+
