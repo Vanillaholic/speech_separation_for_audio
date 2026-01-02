@@ -1,0 +1,11 @@
+torch>=1.9.0,<2.8.0
+torchaudio>=0.9.0,<2.8.0
+numpy>=1.21.0,<2.0.0
+pyannote.audio>=3.1.0
+soundfile>=0.10.0
+gradio==4.19.0
+moviepy==1.0.3
+pyannote-core>=5.0.0
+pyannote-metrics>=3.0.0
+huggingface_hub>=0.16.0,<0.20.0
+
