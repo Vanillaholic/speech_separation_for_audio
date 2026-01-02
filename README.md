@@ -68,4 +68,4 @@ pip install pyannote.audio soundfile torch numpy
 3. 建议根据实际说话人数量设置 `num_speakers` 参数
 4. 如果说话人数量设置不准确，可能需要调整聚类阈值
 
-# speech_separation_for_audio
+
